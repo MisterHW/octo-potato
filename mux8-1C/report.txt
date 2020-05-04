@@ -1,0 +1,842 @@
+Info: Changing symbol “IC6:/5B338A11/5B9460CF” pin “5” net name from “/M_ANA” to “3.3V_IN”.
+
+Info: Processing component “R10:/5B338A11/5BCCB8CB:Resistor_SMD:R_0603_1608Metric”.
+
+Info: Processing component “R1:/5BF8131E:Resistor_SMD:R_0603_1608Metric”.
+
+Info: Changing symbol “IC3:/5B338A11/5B87C4C2” pin “15” net name from “/SDA5” to “PSW3”.
+
+Info: Processing component “R3:/5B58AF59:Resistor_SMD:R_0603_1608Metric”.
+
+Info: Changing symbol “R9:/5B338A11/5BCCB8CB” pin “2” net name from “SWIO4” to “/3.3V_SW”.
+
+Info: Changing symbol “R9:/5B338A11/5BCCB8CB” pin “1” net name from “Net-(IC2-Pad25)” to “Net-(C3-Pad1)”.
+
+Info: Changing symbol path “R9:/5B338A11/5BCCB8CB” to “/5B338A11/5B8D2201”.
+
+Info: Processing component “R9:/5B338A11/5B8D2201:Resistor_SMD:R_0603_1608Metric”.
+
+Info: Changing symbol “R15:/5B338A11/5CBFC991” pin “1” net name from “Net-(C8-Pad2)” to “VBAT_IN”.
+
+Info: Changing symbol “R15:/5B338A11/5CBFC991” pin “2” net name from “3.3V_IN” to “Net-(IC3-Pad11)”.
+
+Info: Changing symbol path “R15:/5B338A11/5CBFC991” to “/5B338A11/5C0ACF5B”.
+
+Info: Changing symbol “IC2:/5B338A11/5B87C1A5” pin “7” net name from “AMUX0” to “/SCL1”.
+
+Info: Changing symbol “R11:/5B338A11/5B87E7F7” pin “1” net name from “/SDA4” to “/SDA6”.
+
+Info: Changing symbol “IC2:/5B338A11/5B87C1A5” pin “4” net name from “/I2C-Analog-Expander/3.3V_CTRL” to “/SDA0”.
+
+Info: Replacing symbol “R10:/5B338A11/5B87E613” footprint “SamacSys_Parts:YC164” with “Resistor_SMD:R_0603_1608Metric”.
+
+Info: Changing symbol “R12:/5B338A11/5C0E3DD0” pin “4” net name from “Net-(R12-Pad4)” to “/SCL5”.
+
+Info: Changing symbol “IC2:/5B338A11/5B87C1A5” pin “5” net name from “/I2C-Analog-Expander/VBAT_CTRL” to “/SCL0”.
+
+Info: Changing symbol “R12:/5B338A11/5C0E3DD0” pin “5” net name from “Net-(R12-Pad2)” to “/3.3V_SW”.
+
+Info: Changing symbol “R11:/5B338A11/5B87E7F7” pin “2” net name from “/SCL4” to “/SCL6”.
+
+Info: Changing symbol “IC2:/5B338A11/5B87C1A5” pin “6” net name from “Net-(IC2-Pad6)” to “/SDA1”.
+
+Info: Clearing symbol “IC6:/5B338A11/5B9460CF” pin “6” net name.
+
+Info: Changing symbol “R12:/5B338A11/5C0E3DD0” pin “6” net name from “3.3V_SW_G” to “/3.3V_SW”.
+
+Info: Changing symbol “R12:/5B338A11/5C0E3DD0” pin “3” net name from “Net-(IC4-Pad11)” to “/SDA5”.
+
+Info: Changing symbol “R11:/5B338A11/5B87E7F7” pin “3” net name from “/SDA5” to “/SDA7”.
+
+Info: Changing symbol “R12:/5B338A11/5C0E3DD0” pin “7” net name from “Net-(R12-Pad4)” to “/3.3V_SW”.
+
+Info: Clearing symbol “IC6:/5B338A11/5B9460CF” pin “7” net name.
+
+Info: Changing symbol “R12:/5B338A11/5C0E3DD0” pin “8” net name from “VBAT_SW_G” to “/3.3V_SW”.
+
+Info: Changing symbol “R11:/5B338A11/5B87E7F7” pin “4” net name from “/SCL5” to “/SCL7”.
+
+Info: Processing component “LOC0:/5B33C44D:SamacSys_Parts:SHDR6W50P0X200_1X6_1390X450X600P”.
+
+Info: Processing component “C1:/5B37488C:Capacitor_SMD:C_0603_1608Metric”.
+
+Info: Processing component “LOC1:/5B33C43E:SamacSys_Parts:SHDR6W50P0X200_1X6_1390X450X600P”.
+
+Info: Changing symbol “R16:/5B338A11/5CC29704” pin “1” net name from “Net-(C9-Pad1)” to “Net-(C8-Pad2)”.
+
+Info: Changing symbol path “R16:/5B338A11/5CC29704” to “/5B338A11/5CBFC991”.
+
+Info: Processing component “R16:/5B338A11/5CBFC991:Resistor_SMD:R_0603_1608Metric”.
+
+Info: Processing component “R17:/5B41C8C8:Resistor_SMD:R_0603_1608Metric”.
+
+Info: Processing component “R18:/5B41C577:Resistor_SMD:R_0603_1608Metric”.
+
+Info: Adding new symbol “R19:/5B338A11/5CC29704” footprint “Resistor_SMD:R_0603_1608Metric”.
+
+Info: Processing component “R19:/5B338A11/5CC29704:Resistor_SMD:R_0603_1608Metric”.
+
+Info: Processing component “R4:/5B35E416:Resistor_SMD:R_0603_1608Metric”.
+
+Info: Processing component “U1:/5BD3AB32:SamacSys_Parts:DIP2286W64P254L4826H735Q30N”.
+
+Info: Processing component “R15:/5B338A11/5C0ACF5B:Resistor_SMD:R_0603_1608Metric”.
+
+Info: Processing component “MASTER1:/5B3BCCD8:SamacSys_Parts:SHDR6W50P0X200_1X6_1390X450X600P”.
+
+Info: Changing symbol “IC2:/5B338A11/5B87C1A5” pin “9” net name from “Net-(IC2-Pad9)” to “/SCL2”.
+
+Info: Processing component “EXT7:/5B33BD4C:SamacSys_Parts:SHDR6W50P0X200_1X6_1390X450X600P”.
+
+Info: Processing component “EXT5:/5B33BEEF:SamacSys_Parts:SHDR6W50P0X200_1X6_1390X450X600P”.
+
+Info: Processing component “EXT4:/5B33BF23:SamacSys_Parts:SHDR6W50P0X200_1X6_1390X450X600P”.
+
+Info: Processing component “EXT3:/5B33BC25:SamacSys_Parts:SHDR6W50P0X200_1X6_1390X450X600P”.
+
+Info: Processing component “EXT2:/5B33BBE7:SamacSys_Parts:SHDR6W50P0X200_1X6_1390X450X600P”.
+
+Info: Processing component “EXT1:/5B33BBB4:SamacSys_Parts:SHDR6W50P0X200_1X6_1390X450X600P”.
+
+Info: Processing component “R2:/5BF945AC:Resistor_SMD:R_0603_1608Metric”.
+
+Info: Clearing symbol “R10:/5B338A11/5B87E613” pin “4” net name.
+
+Info: Clearing symbol “R10:/5B338A11/5B87E613” pin “5” net name.
+
+Info: Clearing symbol “R10:/5B338A11/5B87E613” pin “6” net name.
+
+Info: Clearing symbol “R10:/5B338A11/5B87E613” pin “7” net name.
+
+Info: Clearing symbol “R10:/5B338A11/5B87E613” pin “8” net name.
+
+Info: Changing symbol path “R10:/5B338A11/5B87E613” to “/5B338A11/5BCCB8CB”.
+
+Info: Changing symbol “IC2:/5B338A11/5B87C1A5” pin “10” net name from “Net-(IC2-Pad10)” to “/SDA3”.
+
+Info: Changing symbol path “IC6:/5B338A11/5B9460CF” to “/5B338A11/5B949DAD”.
+
+Info: Changing symbol “R8:/5B338A11/5BC36DA5” pin “4” net name from “Net-(IC2-Pad24)” to “/I2C-Analog-Expander/GPIO3”.
+
+Info: Changing symbol “IC2:/5B338A11/5B87C1A5” pin “18” net name from “3.3V_IN” to “/SCL6”.
+
+Info: Clearing symbol “IC6:/5B338A11/5B9460CF” pin “14” net name.
+
+Info: Changing symbol “R8:/5B338A11/5BC36DA5” pin “1” net name from “Net-(IC2-Pad21)” to “/I2C-Analog-Expander/GPIO0”.
+
+Info: Clearing symbol “IC6:/5B338A11/5B9460CF” pin “16” net name.
+
+Info: Clearing symbol “IC6:/5B338A11/5B9460CF” pin “10” net name.
+
+Info: Changing symbol “IC2:/5B338A11/5B87C1A5” pin “16” net name from “3.3V_IN” to “/SCL5”.
+
+Info: Clearing symbol “IC6:/5B338A11/5B9460CF” pin “11” net name.
+
+Info: Changing symbol “R8:/5B338A11/5BC36DA5” pin “3” net name from “Net-(IC2-Pad23)” to “/I2C-Analog-Expander/GPIO2”.
+
+Info: Clearing symbol “IC6:/5B338A11/5B9460CF” pin “15” net name.
+
+Info: Changing symbol “IC2:/5B338A11/5B87C1A5” pin “17” net name from “3.3V_IN” to “/SDA6”.
+
+Info: Processing component “R6:/5B338A11/5B87E43E:SamacSys_Parts:YC164”.
+
+Info: Changing symbol “R8:/5B338A11/5BC36DA5” pin “2” net name from “Net-(IC2-Pad22)” to “/I2C-Analog-Expander/GPIO1”.
+
+Info: Changing symbol “R5:/5B338A11/5B8D2201” pin “1” net name from “Net-(C2-Pad1)” to “GND”.
+
+Info: Processing component “IC6:/5B338A11/5B949DAD:SamacSys_Parts:SOT65P210X110-5N”.
+
+Info: Changing symbol path “R5:/5B338A11/5B8D2201” to “/5B7BB903”.
+
+Info: Changing symbol “IC2:/5B338A11/5B87C1A5” pin “11” net name from “AMUX1” to “/SCL3”.
+
+Info: Clearing symbol “IC6:/5B338A11/5B9460CF” pin “8” net name.
+
+Info: Clearing symbol “IC6:/5B338A11/5B9460CF” pin “12” net name.
+
+Info: Changing symbol “IC2:/5B338A11/5B87C1A5” pin “19” net name from “GND” to “/SDA7”.
+
+Info: Replacing symbol “IC6:/5B338A11/5B9460CF” footprint “SamacSys_Parts:SOP64P599X175-16N” with “SamacSys_Parts:SOT65P210X110-5N”.
+
+Info: Replacing symbol “R5:/5B338A11/5B8D2201” footprint “Resistor_SMD:R_0603_1608Metric” with “SamacSys_Parts:YC164”.
+
+Info: Changing symbol “IC2:/5B338A11/5B87C1A5” pin “12” net name from “AMUX2” to “GND”.
+
+Info: Processing component “R5:/5B7BB903:SamacSys_Parts:YC164”.
+
+Info: Clearing symbol “IC6:/5B338A11/5B9460CF” pin “13” net name.
+
+Info: Changing symbol “IC2:/5B338A11/5B87C1A5” pin “13” net name from “AMUX3” to “/SDA4”.
+
+Info: Changing symbol “IC2:/5B338A11/5B87C1A5” pin “8” net name from “GND” to “/SDA2”.
+
+Info: Changing symbol path “R12:/5B338A11/5C0E3DD0” to “/5B338A11/5B87E7F7”.
+
+Info: Processing component “R12:/5B338A11/5B87E7F7:SamacSys_Parts:YC164”.
+
+Info: Changing symbol “R5:/5B338A11/5B8D2201” pin “2” net name from “/3.3V_SW” to “GND”.
+
+Info: Processing component “R11:/5B338A11/5B87E613:SamacSys_Parts:YC164”.
+
+Info: Processing component “IC2:/5B338A11/5B87C4C2:SamacSys_Parts:SOP65P640X120-24N”.
+
+Info: Changing symbol “R13:/5B338A11/5C0F4526” pin “1” net name from “VBAT_IN” to “Net-(IC3-Pad10)”.
+
+Info: Changing symbol “IC6:/5B338A11/5B9460CF” pin “1” net name from “/A3” to “Net-(IC6-Pad1)”.
+
+Info: Replacing symbol “IC2:/5B338A11/5B87C1A5” footprint “SamacSys_Parts:SOP65P780X200-28N” with “SamacSys_Parts:SOP65P640X120-24N”.
+
+Info: Changing symbol path “R13:/5B338A11/5C0F4526” to “/5B338A11/5C0E3DD0”.
+
+Info: Changing symbol path “IC2:/5B338A11/5B87C1A5” to “/5B338A11/5B87C4C2”.
+
+Info: Replacing symbol “R13:/5B338A11/5C0F4526” footprint “Resistor_SMD:R_0603_1608Metric” with “SamacSys_Parts:YC164”.
+
+Info: Changing symbol “IC6:/5B338A11/5B9460CF” pin “2” net name from “/A2” to “AMUX3”.
+
+Info: Changing symbol “R13:/5B338A11/5C0F4526” pin “2” net name from “Net-(IC4-Pad10)” to “Net-(R13-Pad2)”.
+
+Info: Processing component “IC4:/5B338A11/5C0ACF53:SamacSys_Parts:SOIC127P600X175-8N”.
+
+Info: Changing symbol “IC2:/5B338A11/5B87C1A5” pin “1” net name from “GND” to “ADDR0”.
+
+Info: Processing component “R13:/5B338A11/5C0E3DD0:SamacSys_Parts:YC164”.
+
+Info: Changing symbol “R12:/5B338A11/5C0E3DD0” pin “1” net name from “Net-(IC4-Pad10)” to “/SDA4”.
+
+Info: Changing symbol “IC6:/5B338A11/5B9460CF” pin “3” net name from “/A1” to “GND”.
+
+Info: Changing symbol path “R11:/5B338A11/5B87E7F7” to “/5B338A11/5B87E613”.
+
+Info: Changing symbol “IC2:/5B338A11/5B87C1A5” pin “2” net name from “GPIO8” to “ADDR1”.
+
+Info: Changing symbol “R12:/5B338A11/5C0E3DD0” pin “2” net name from “Net-(R12-Pad2)” to “/SCL4”.
+
+Info: Changing symbol “IC6:/5B338A11/5B9460CF” pin “4” net name from “/A0” to “Net-(IC6-Pad4)”.
+
+Info: Changing symbol “IC2:/5B338A11/5B87C1A5” pin “3” net name from “GPIO9” to “Net-(C3-Pad1)”.
+
+Info: Changing symbol “IC2:/5B338A11/5B87C1A5” pin “15” net name from “/M_SDA” to “/SDA5”.
+
+Info: Processing component “R7:/5B338A11/5B87D847:SamacSys_Parts:YC164”.
+
+Info: Changing symbol “IC2:/5B338A11/5B87C1A5” pin “14” net name from “/M_SCL” to “/SCL4”.
+
+Info: Clearing symbol “IC6:/5B338A11/5B9460CF” pin “9” net name.
+
+Info: Changing symbol “IC3:/5B338A11/5B87C4C2” pin “4” net name from “/SDA0” to “SWIO1”.
+
+Info: Clearing symbol “IC4:/5B338A11/5B949950” pin “10” net name.
+
+Info: Clearing symbol “IC4:/5B338A11/5B949950” pin “9” net name.
+
+Info: Replacing symbol “IC7:/5B338A11/5B949DAD” footprint “SamacSys_Parts:SOT65P210X110-5N” with “SamacSys_Parts:SOP64P599X175-16N”.
+
+Info: Changing symbol “IC4:/5B338A11/5B949950” pin “7” net name from “/I2C-Analog-Expander/3.3V_CTRL” to “/VBAT_SW”.
+
+Info: Changing symbol “IC4:/5B338A11/5B949950” pin “6” net name from “/I2C-Analog-Expander/VBAT_CTRL” to “/3.3V_SW”.
+
+Info: Changing symbol “IC4:/5B338A11/5B949950” pin “5” net name from “SWIO0” to “/3.3V_SW”.
+
+Info: Changing symbol “IC4:/5B338A11/5B949950” pin “4” net name from “SWIO1” to “3.3V_SW_G”.
+
+Info: Changing symbol “IC4:/5B338A11/5B949950” pin “3” net name from “SWIO2” to “3.3V_IN”.
+
+Info: Changing symbol “IC4:/5B338A11/5B949950” pin “2” net name from “SWIO3” to “VBAT_SW_G”.
+
+Info: Changing symbol “IC4:/5B338A11/5B949950” pin “1” net name from “SWIO4” to “VBAT_IN”.
+
+Info: Changing symbol path “IC4:/5B338A11/5B949950” to “/5B338A11/5C0ACF53”.
+
+Info: Clearing symbol “IC2:/5B338A11/5B87C1A5” pin “28” net name.
+
+Info: Changing symbol “IC3:/5B338A11/5B87C4C2” pin “6” net name from “/SDA1” to “/I2C-Analog-Expander/VBAT_CTRL”.
+
+Info: Changing symbol “IC3:/5B338A11/5B87C4C2” pin “5” net name from “/SCL0” to “SWIO0”.
+
+Info: Clearing symbol “IC4:/5B338A11/5B949950” pin “11” net name.
+
+Info: Changing symbol “IC3:/5B338A11/5B87C4C2” pin “3” net name from “Net-(C2-Pad1)” to “SWIO2”.
+
+Info: Changing symbol “IC3:/5B338A11/5B87C4C2” pin “2” net name from “/3.3V_SW” to “SWIO3”.
+
+Info: Changing symbol “IC3:/5B338A11/5B87C4C2” pin “1” net name from “/3.3V_SW” to “SWIO4”.
+
+Info: Changing symbol path “IC3:/5B338A11/5B87C4C2” to “/5B338A11/5B949950”.
+
+Info: Replacing symbol “IC3:/5B338A11/5B87C4C2” footprint “SamacSys_Parts:SOP65P640X120-24N” with “SamacSys_Parts:SOP65P640X120-16N”.
+
+Info: Processing component “IC3:/5B338A11/5B949950:SamacSys_Parts:SOP65P640X120-16N”.
+
+Info: Changing symbol “IC3:/5B338A11/5B87C4C2” pin “7” net name from “/SCL1” to “/I2C-Analog-Expander/3.3V_CTRL”.
+
+Info: Clearing symbol “IC2:/5B338A11/5B87C1A5” pin “27” net name.
+
+Info: Clearing symbol “IC2:/5B338A11/5B87C1A5” pin “26” net name.
+
+Info: Clearing symbol “IC2:/5B338A11/5B87C1A5” pin “25” net name.
+
+Info: Changing symbol “IC2:/5B338A11/5B87C1A5” pin “24” net name from “Net-(IC2-Pad24)” to “/3.3V_SW”.
+
+Info: Changing symbol “IC2:/5B338A11/5B87C1A5” pin “23” net name from “Net-(IC2-Pad23)” to “/M_SDA”.
+
+Info: Changing symbol “IC2:/5B338A11/5B87C1A5” pin “22” net name from “Net-(IC2-Pad22)” to “/M_SCL”.
+
+Info: Processing component “IC5:/5B338A11/5B9460CF:SamacSys_Parts:SOP64P599X175-16N”.
+
+Info: Processing component “C10:/5B41C9BA:Capacitor_SMD:C_0603_1608Metric”.
+
+Info: Changing symbol “IC5:/5B338A11/5C0ACF53” pin “1” net name from “VBAT_IN” to “/A3”.
+
+Info: Processing component “IC1:/5B516D36:SamacSys_Parts:SOIC127P600X175-8N”.
+
+Info: Changing symbol “IC5:/5B338A11/5C0ACF53” pin “8” net name from “/VBAT_SW” to “GND”.
+
+Info: Changing symbol “IC5:/5B338A11/5C0ACF53” pin “7” net name from “/VBAT_SW” to “AMUX3”.
+
+Info: Changing symbol “IC5:/5B338A11/5C0ACF53” pin “6” net name from “/3.3V_SW” to “Net-(IC5-Pad6)”.
+
+Info: Changing symbol “IC5:/5B338A11/5C0ACF53” pin “5” net name from “/3.3V_SW” to “/M_ANA”.
+
+Info: Changing symbol “IC5:/5B338A11/5C0ACF53” pin “4” net name from “3.3V_SW_G” to “/A0”.
+
+Info: Changing symbol “IC5:/5B338A11/5C0ACF53” pin “3” net name from “3.3V_IN” to “/A1”.
+
+Info: Changing symbol “IC5:/5B338A11/5C0ACF53” pin “2” net name from “VBAT_SW_G” to “/A2”.
+
+Info: Replacing symbol “IC4:/5B338A11/5B949950” footprint “SamacSys_Parts:SOP65P640X120-16N” with “SamacSys_Parts:SOIC127P600X175-8N”.
+
+Info: Changing symbol path “IC5:/5B338A11/5C0ACF53” to “/5B338A11/5B9460CF”.
+
+Info: Replacing symbol “IC5:/5B338A11/5C0ACF53” footprint “SamacSys_Parts:SOIC127P600X175-8N” with “SamacSys_Parts:SOP64P599X175-16N”.
+
+Info: Processing component “C9:/5B338A11/5BA10FB9:Capacitor_SMD:C_0603_1608Metric”.
+
+Info: Changing symbol “IC7:/5B338A11/5B949DAD” pin “5” net name from “3.3V_IN” to “/M_ANA”.
+
+Info: Changing symbol “IC7:/5B338A11/5B949DAD” pin “4” net name from “Net-(IC7-Pad4)” to “A8”.
+
+Info: Changing symbol “IC7:/5B338A11/5B949DAD” pin “3” net name from “GND” to “A9”.
+
+Info: Changing symbol “IC7:/5B338A11/5B949DAD” pin “2” net name from “AMUX3” to “A10”.
+
+Info: Changing symbol “IC7:/5B338A11/5B949DAD” pin “1” net name from “Net-(IC7-Pad1)” to “A11”.
+
+Info: Changing symbol path “IC7:/5B338A11/5B949DAD” to “/5B338A11/5B9463EE”.
+
+Info: Changing symbol “IC4:/5B338A11/5B949950” pin “8” net name from “GND” to “/VBAT_SW”.
+
+Info: Processing component “EXT6:/5B33BEBC:SamacSys_Parts:SHDR6W50P0X200_1X6_1390X450X600P”.
+
+Info: Clearing symbol “IC4:/5B338A11/5B949950” pin “16” net name.
+
+Info: Clearing symbol “IC4:/5B338A11/5B949950” pin “15” net name.
+
+Info: Clearing symbol “IC4:/5B338A11/5B949950” pin “14” net name.
+
+Info: Clearing symbol “IC4:/5B338A11/5B949950” pin “13” net name.
+
+Info: Clearing symbol “IC4:/5B338A11/5B949950” pin “12” net name.
+
+Info: Removing unused footprint “LOC3:/5B33C420”.
+
+Info: Processing component “MK2:/5B4276BE:MountingHole:MountingHole_3.2mm_M3”.
+
+Info: Processing component “MK1:/5B4275E7:MountingHole:MountingHole_3.2mm_M3”.
+
+Info: Processing component “JP1:/5B35E40F:Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical”.
+
+Info: Processing component “SW1:/5B7BB8F5:Package_DIP:DIP-8_W7.62mm”.
+
+Info: Adding new symbol “U2:/5B338A11/5B4243F6” footprint “Package_SO:TSSOP-24_4.4x7.8mm_P0.65mm”.
+
+Info: Processing component “U2:/5B338A11/5B4243F6:Package_SO:TSSOP-24_4.4x7.8mm_P0.65mm”.
+
+Info: Changing symbol “R14:/5B338A11/5C0ACF5B” pin “2” net name from “Net-(IC4-Pad11)” to “Net-(IC3-Pad10)”.
+
+Info: Changing symbol path “R14:/5B338A11/5C0ACF5B” to “/5B338A11/5C0F4526”.
+
+Info: Processing component “R14:/5B338A11/5C0F4526:Resistor_SMD:R_0603_1608Metric”.
+
+Info: Changing symbol “R10:/5B338A11/5B87E613” pin “1” net name from “/SDA6” to “/I2C-Analog-Expander/GPIO4”.
+
+Info: Changing symbol “R10:/5B338A11/5B87E613” pin “2” net name from “/SCL6” to “SWIO4”.
+
+Info: Processing component “C3:/5B338A11/5B8D2209:Capacitor_SMD:C_0603_1608Metric”.
+
+Info: Removing unused footprint “IC8:/5B338A11/5B9463EE”.
+
+Info: Removing unused footprint “LOC2:/5B33C42F”.
+
+Info: Changing symbol “IC2:/5B338A11/5B87C1A5” pin “20” net name from “3.3V_IN” to “/SCL7”.
+
+Info: Changing symbol “C2:/5B338A11/5B8D2209” pin “1” net name from “Net-(C2-Pad1)” to “3.3V_IN”.
+
+Info: Changing symbol path “C2:/5B338A11/5B8D2209” to “/5B338A11/5B712B72”.
+
+Info: Processing component “C2:/5B338A11/5B712B72:Capacitor_SMD:C_0603_1608Metric”.
+
+Info: Changing symbol “C3:/5B338A11/5BF0B6BE” pin “1” net name from “GND” to “Net-(C3-Pad1)”.
+
+Info: Changing symbol “C3:/5B338A11/5BF0B6BE” pin “2” net name from “3.3V_IN” to “GND”.
+
+Info: Changing symbol path “C3:/5B338A11/5BF0B6BE” to “/5B338A11/5B8D2209”.
+
+Info: Clearing symbol “R10:/5B338A11/5B87E613” pin “3” net name.
+
+Info: Processing component “C4:/5B338A11/5B904B95:Capacitor_SMD:C_0603_1608Metric”.
+
+Info: Processing component “C5:/5B338A11/5C104C42:Capacitor_SMD:C_0603_1608Metric”.
+
+Info: Processing component “C6:/5B338A11/5C0ACF71:Capacitor_SMD:C_0603_1608Metric”.
+
+Info: Processing component “C7:/5B338A11/5C8027C8:Capacitor_SMD:C_0603_1608Metric”.
+
+Info: Processing component “C8:/5B338A11/5BA7FECD:Capacitor_SMD:C_0603_1608Metric”.
+
+Info: Changing symbol “IC2:/5B338A11/5B87C1A5” pin “21” net name from “Net-(IC2-Pad21)” to “ADDR2”.
+
+Info: Processing component “MK4:/5B42775C:MountingHole:MountingHole_3.2mm_M3”.
+
+Info: Processing component “MK3:/5B42770E:MountingHole:MountingHole_3.2mm_M3”.
+
+Info: Changing symbol “IC3:/5B338A11/5B87C4C2” pin “16” net name from “/SCL5” to “PSW4”.
+
+Info: Processing component “IC7:/5B338A11/5B9463EE:SamacSys_Parts:SOP64P599X175-16N”.
+
+Info: Clearing symbol “IC3:/5B338A11/5B87C4C2” pin “24” net name.
+
+Info: Clearing symbol “IC3:/5B338A11/5B87C4C2” pin “23” net name.
+
+Info: Clearing symbol “IC3:/5B338A11/5B87C4C2” pin “22” net name.
+
+Info: Clearing symbol “IC3:/5B338A11/5B87C4C2” pin “21” net name.
+
+Info: Clearing symbol “IC3:/5B338A11/5B87C4C2” pin “20” net name.
+
+Info: Clearing symbol “IC3:/5B338A11/5B87C4C2” pin “19” net name.
+
+Info: Clearing symbol “IC3:/5B338A11/5B87C4C2” pin “18” net name.
+
+Info: Clearing symbol “IC3:/5B338A11/5B87C4C2” pin “17” net name.
+
+Info: Processing component “EXT0:/5B33BA02:SamacSys_Parts:SHDR6W50P0X200_1X6_1390X450X600P”.
+
+Info: Processing component “R8:/5B338A11/5BC36DA5:SamacSys_Parts:YC164”.
+
+Info: Changing symbol “IC3:/5B338A11/5B87C4C2” pin “13” net name from “/SDA4” to “PSW1”.
+
+Info: Changing symbol “IC3:/5B338A11/5B87C4C2” pin “14” net name from “/SCL4” to “PSW2”.
+
+Info: Processing component “J1:/5B927779:Connector_PinHeader_2.54mm:PinHeader_2x05_P2.54mm_Vertical”.
+
+Info: Processing component “J2:/5B697DD7:Connector_PinHeader_2.54mm:PinHeader_2x05_P2.54mm_Vertical”.
+
+Info: Processing component “J3:/5B697B0E:Connector_PinHeader_2.54mm:PinHeader_2x05_P2.54mm_Vertical”.
+
+Info: Processing component “JP3:/5C04543A:Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical”.
+
+Info: Processing component “JP2:/5B51680C:Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical”.
+
+Info: Changing symbol “IC3:/5B338A11/5B87C4C2” pin “8” net name from “/SDA2” to “GND”.
+
+Info: Changing symbol “IC3:/5B338A11/5B87C4C2” pin “9” net name from “/SCL2” to “VBAT_IN”.
+
+Info: Changing symbol “IC3:/5B338A11/5B87C4C2” pin “10” net name from “/SDA3” to “Net-(IC3-Pad10)”.
+
+Info: Changing symbol “IC3:/5B338A11/5B87C4C2” pin “11” net name from “/SCL3” to “Net-(IC3-Pad11)”.
+
+Info: Changing symbol “IC3:/5B338A11/5B87C4C2” pin “12” net name from “GND” to “PSW0”.
+
+Info: Adding new symbol “SW1:/5B7BB8F5” footprint “Package_DIP:DIP-8_W7.62mm”.
+
+Reconnect symbol IC2 pin 12 from net AMUX2 to net GND.
+
+Reconnect symbol IC3 pin 5 from net /SCL0 to net SWIO0.
+
+Reconnect symbol IC3 pin 4 from net /SDA0 to net SWIO1.
+
+Reconnect symbol IC2 pin 13 from net AMUX3 to net /SDA4.
+
+Reconnect symbol IC3 pin 3 from net Net-(C2-Pad1) to net SWIO2.
+
+Reconnect symbol IC3 pin 2 from net /3.3V_SW to net SWIO3.
+
+Reconnect symbol IC2 pin 14 from net /M_SCL to net /SCL4.
+
+Reconnect symbol IC3 pin 1 from net /3.3V_SW to net SWIO4.
+
+Changing symbol “IC3:/5B338A11/5B87C4C2” value from “PCA9548APW” to “TPL7407LPWR”.
+
+Change symbol IC3 value from PCA9548APW to TPL7407LPWR.
+
+
+Reconnect symbol IC2 pin 2 from net GPIO8 to net ADDR1.
+
+Reconnect symbol IC3 pin 6 from net /SDA1 to net /I2C-Analog-Expander/VBAT_CTRL.
+
+Reconnect symbol IC3 pin 7 from net /SCL1 to net /I2C-Analog-Expander/3.3V_CTRL.
+
+Reconnect symbol IC2 pin 11 from net AMUX1 to net /SCL3.
+
+Reconnect symbol IC4 pin 6 from net /I2C-Analog-Expander/VBAT_CTRL to net /3.3V_SW.
+
+Reconnect symbol IC6 pin 3 from net /A1 to net GND.
+
+Reconnect symbol IC6 pin 4 from net /A0 to net Net-(IC6-Pad4).
+
+Change symbol IC4 footprint from SamacSys_Parts:SOP65P640X120-16N to SamacSys_Parts:SOIC127P600X175-8N.
+
+Add net Net-(IC6-Pad4).
+
+Change symbol IC4 value from TPL7407LPWR to SI4925BDY-T1-E3.
+
+
+Changing symbol “IC4:/5B338A11/5B949950” value from “TPL7407LPWR” to “SI4925BDY-T1-E3”.
+
+Reconnect symbol IC4 pin 1 from net SWIO4 to net VBAT_IN.
+
+Reconnect symbol IC6 pin 5 from net /M_ANA to net 3.3V_IN.
+
+Reconnect symbol IC2 pin 21 from net Net-(IC2-Pad21) to net ADDR2.
+
+Disconnect symbol IC3 pin 20.
+
+Disconnect symbol IC3 pin 21.
+
+Reconnect symbol IC2 pin 4 from net /I2C-Analog-Expander/3.3V_CTRL to net /SDA0.
+
+Disconnect symbol IC3 pin 22.
+
+Disconnect symbol IC3 pin 23.
+
+Reconnect symbol IC2 pin 3 from net GPIO9 to net Net-(C3-Pad1).
+
+Disconnect symbol IC3 pin 24.
+
+Add net Net-(C3-Pad1).
+
+Change symbol IC7 footprint from SamacSys_Parts:SOT65P210X110-5N to SamacSys_Parts:SOP64P599X175-16N.
+
+Reconnect symbol IC2 pin 15 from net /M_SDA to net /SDA5.
+
+Add net ADDR2.
+
+Change symbol IC3 footprint from SamacSys_Parts:SOP65P640X120-24N to SamacSys_Parts:SOP65P640X120-16N.
+
+Reconnect symbol IC2 pin 22 from net Net-(IC2-Pad22) to net /M_SCL.
+
+Reconnect symbol IC2 pin 19 from net GND to net /SDA7.
+
+Reconnect symbol IC2 pin 23 from net Net-(IC2-Pad23) to net /M_SDA.
+
+Reconnect symbol IC2 pin 24 from net Net-(IC2-Pad24) to net /3.3V_SW.
+
+Reconnect symbol IC2 pin 18 from net 3.3V_IN to net /SCL6.
+
+Disconnect symbol IC2 pin 25.
+
+Disconnect symbol IC2 pin 26.
+
+Reconnect symbol IC2 pin 17 from net 3.3V_IN to net /SDA6.
+
+Disconnect symbol IC2 pin 27.
+
+Disconnect symbol IC2 pin 28.
+
+Reconnect symbol IC2 pin 16 from net 3.3V_IN to net /SCL5.
+
+Change symbol IC2 footprint from SamacSys_Parts:SOP65P780X200-28N to SamacSys_Parts:SOP65P640X120-24N.
+
+Reconnect symbol IC7 pin 2 from net AMUX3 to net A10.
+
+Reconnect symbol IC2 pin 1 from net GND to net ADDR0.
+
+Reconnect symbol IC7 pin 3 from net GND to net A9.
+
+Add net ADDR0.
+
+Reconnect symbol IC7 pin 4 from net Net-(IC7-Pad4) to net A8.
+
+Reconnect symbol IC7 pin 5 from net 3.3V_IN to net /M_ANA.
+
+Changing symbol “IC2:/5B338A11/5B87C1A5” value from “MCP23016-I_SS” to “PCA9548APW”.
+
+Change symbol IC2 value from MCP23016-I_SS to PCA9548APW.
+
+
+Change symbol IC5 footprint from SamacSys_Parts:SOIC127P600X175-8N to SamacSys_Parts:SOP64P599X175-16N.
+
+Disconnect symbol IC6 pin 12.
+
+Changing symbol “IC5:/5B338A11/5C0ACF53” value from “SI4925BDY-T1-E3” to “PI5C3251QE”.
+
+Reconnect symbol IC7 pin 1 from net Net-(IC7-Pad1) to net A11.
+
+Reconnect symbol IC5 pin 1 from net VBAT_IN to net /A3.
+
+Reconnect symbol IC5 pin 2 from net VBAT_SW_G to net /A2.
+
+Reconnect symbol IC5 pin 3 from net 3.3V_IN to net /A1.
+
+Reconnect symbol IC6 pin 1 from net /A3 to net Net-(IC6-Pad1).
+
+Reconnect symbol IC5 pin 4 from net 3.3V_SW_G to net /A0.
+
+Add net Net-(IC6-Pad1).
+
+Reconnect symbol IC5 pin 5 from net /3.3V_SW to net /M_ANA.
+
+Add net Net-(IC5-Pad6).
+
+Reconnect symbol IC5 pin 6 from net /3.3V_SW to net Net-(IC5-Pad6).
+
+Reconnect symbol IC6 pin 2 from net /A2 to net AMUX3.
+
+Reconnect symbol IC5 pin 7 from net /VBAT_SW to net AMUX3.
+
+Disconnect symbol IC4 pin 10.
+
+Reconnect symbol IC4 pin 3 from net SWIO2 to net 3.3V_IN.
+
+Disconnect symbol IC6 pin 6.
+
+Reconnect symbol IC4 pin 4 from net SWIO1 to net 3.3V_SW_G.
+
+Reconnect symbol IC4 pin 5 from net SWIO0 to net /3.3V_SW.
+
+Disconnect symbol IC6 pin 7.
+
+Reconnect symbol IC5 pin 8 from net /VBAT_SW to net GND.
+
+Reconnect symbol IC2 pin 20 from net 3.3V_IN to net /SCL7.
+
+Disconnect symbol IC6 pin 8.
+
+Reconnect symbol IC4 pin 8 from net GND to net /VBAT_SW.
+
+Disconnect symbol IC4 pin 9.
+
+Disconnect symbol IC6 pin 9.
+
+Reconnect symbol IC4 pin 2 from net SWIO3 to net VBAT_SW_G.
+
+Disconnect symbol IC4 pin 11.
+
+Disconnect symbol IC6 pin 10.
+
+Disconnect symbol IC4 pin 12.
+
+Disconnect symbol IC4 pin 13.
+
+Disconnect symbol IC6 pin 11.
+
+Disconnect symbol IC4 pin 14.
+
+Disconnect symbol IC4 pin 15.
+
+Change symbol IC5 value from SI4925BDY-T1-E3 to PI5C3251QE.
+
+
+Change symbol IC7 value from SN74LVC1G04QDCKRQ1 to PI5C3251QE.
+
+
+Changing symbol “IC7:/5B338A11/5B949DAD” value from “SN74LVC1G04QDCKRQ1” to “PI5C3251QE”.
+
+Add net ADDR1.
+
+Change symbol R5 footprint from Resistor_SMD:R_0603_1608Metric to SamacSys_Parts:YC164.
+
+Change symbol IC6 footprint from SamacSys_Parts:SOP64P599X175-16N to SamacSys_Parts:SOT65P210X110-5N.
+
+Reconnect symbol C3 pin 2 from net 3.3V_IN to net GND.
+
+Reconnect symbol R12 pin 6 from net 3.3V_SW_G to net /3.3V_SW.
+
+Add symbol U2, footprint: Package_SO:TSSOP-24_4.4x7.8mm_P0.65mm.
+
+Reconnect symbol R12 pin 7 from net Net-(R12-Pad4) to net /3.3V_SW.
+
+Add symbol SW1, footprint: Package_DIP:DIP-8_W7.62mm.
+
+Reconnect symbol R12 pin 8 from net VBAT_SW_G to net /3.3V_SW.
+
+Reconnect symbol R5 pin 2 from net /3.3V_SW to net GND.
+
+Reconnect symbol R5 pin 1 from net Net-(C2-Pad1) to net GND.
+
+Changing symbol “R5:/5B338A11/5B8D2201” value from “4.7k” to “BCN164AB472J7”.
+
+Change symbol R5 value from 4.7k to BCN164AB472J7.
+
+
+Reconnect symbol R11 pin 4 from net /SCL5 to net /SCL7.
+
+Reconnect symbol R8 pin 1 from net Net-(IC2-Pad21) to net /I2C-Analog-Expander/GPIO0.
+
+Add net /I2C-Analog-Expander/GPIO0.
+
+Reconnect symbol R12 pin 5 from net Net-(R12-Pad2) to net /3.3V_SW.
+
+Reconnect symbol R8 pin 2 from net Net-(IC2-Pad22) to net /I2C-Analog-Expander/GPIO1.
+
+Add net Net-(C3-Pad1).
+
+Reconnect symbol C3 pin 1 from net GND to net Net-(C3-Pad1).
+
+Add net /I2C-Analog-Expander/GPIO1.
+
+Reconnect symbol R8 pin 3 from net Net-(IC2-Pad23) to net /I2C-Analog-Expander/GPIO2.
+
+Reconnect symbol C2 pin 1 from net Net-(C2-Pad1) to net 3.3V_IN.
+
+Add net /I2C-Analog-Expander/GPIO2.
+
+Remove footprint LOC3.
+Add net Net-(IC3-Pad11).
+
+Add net Net-(C3-Pad1).
+
+Reconnect symbol R13 pin 2 from net Net-(IC4-Pad10) to net Net-(R13-Pad2).
+
+Add net Net-(R13-Pad2).
+
+Change symbol R9 value from 220 to 4.7k.
+
+
+Changing symbol “R9:/5B338A11/5BCCB8CB” value from “220” to “4.7k”.
+
+Reconnect symbol R15 pin 1 from net Net-(C8-Pad2) to net VBAT_IN.
+
+Reconnect symbol IC4 pin 7 from net /I2C-Analog-Expander/3.3V_CTRL to net /VBAT_SW.
+
+Disconnect symbol IC6 pin 14.
+
+Disconnect symbol IC6 pin 13.
+
+Reconnect symbol R15 pin 2 from net 3.3V_IN to net Net-(IC3-Pad11).
+
+Disconnect symbol IC6 pin 15.
+
+Remove footprint LOC2.
+Changing symbol “R15:/5B338A11/5CBFC991” value from “220” to “470k”.
+
+Change symbol R15 value from 220 to 470k.
+
+
+Disconnect symbol IC6 pin 16.
+
+Reconnect symbol R11 pin 1 from net /SDA4 to net /SDA6.
+
+Reconnect symbol R16 pin 1 from net Net-(C9-Pad1) to net Net-(C8-Pad2).
+
+Changing symbol “IC6:/5B338A11/5B9460CF” value from “PI5C3251QE” to “SN74LVC1G04QDCKRQ1”.
+
+Reconnect symbol R11 pin 2 from net /SCL4 to net /SCL6.
+
+Reconnect symbol R11 pin 3 from net /SDA5 to net /SDA7.
+
+Change symbol IC6 value from PI5C3251QE to SN74LVC1G04QDCKRQ1.
+
+
+Add symbol R19, footprint: Resistor_SMD:R_0603_1608Metric.
+
+Disconnect symbol IC4 pin 16.
+
+Reconnect symbol IC2 pin 9 from net Net-(IC2-Pad9) to net /SCL2.
+
+Reconnect symbol R10 pin 1 from net /SDA6 to net /I2C-Analog-Expander/GPIO4.
+
+Reconnect symbol R12 pin 4 from net Net-(R12-Pad4) to net /SCL5.
+
+Add net Net-(IC3-Pad10).
+
+Reconnect symbol R14 pin 2 from net Net-(IC4-Pad11) to net Net-(IC3-Pad10).
+
+Disconnect symbol IC3 pin 17.
+
+Reconnect symbol IC3 pin 9 from net /SCL2 to net VBAT_IN.
+
+Reconnect symbol IC2 pin 10 from net Net-(IC2-Pad10) to net /SDA3.
+
+Add net Net-(IC3-Pad10).
+
+Reconnect symbol IC3 pin 10 from net /SDA3 to net Net-(IC3-Pad10).
+
+Add net Net-(IC3-Pad11).
+
+Reconnect symbol IC3 pin 11 from net /SCL3 to net Net-(IC3-Pad11).
+
+Add net /I2C-Analog-Expander/GPIO4.
+
+Reconnect symbol IC3 pin 12 from net GND to net PSW0.
+
+Reconnect symbol IC3 pin 13 from net /SDA4 to net PSW1.
+
+Reconnect symbol IC2 pin 8 from net GND to net /SDA2.
+
+Reconnect symbol IC3 pin 14 from net /SCL4 to net PSW2.
+
+Reconnect symbol IC3 pin 15 from net /SDA5 to net PSW3.
+
+Reconnect symbol IC2 pin 7 from net AMUX0 to net /SCL1.
+
+Reconnect symbol IC3 pin 16 from net /SCL5 to net PSW4.
+
+Reconnect symbol IC3 pin 8 from net /SDA2 to net GND.
+
+Reconnect symbol IC2 pin 6 from net Net-(IC2-Pad6) to net /SDA1.
+
+Disconnect symbol IC3 pin 18.
+
+Disconnect symbol IC3 pin 19.
+
+Changing symbol “R10:/5B338A11/5B87E613” value from “BCN164AB472J7” to “220”.
+
+Reconnect symbol R8 pin 4 from net Net-(IC2-Pad24) to net /I2C-Analog-Expander/GPIO3.
+
+Remove footprint IC8.
+Add net /I2C-Analog-Expander/GPIO3.
+
+Reconnect symbol R12 pin 1 from net Net-(IC4-Pad10) to net /SDA4.
+
+Reconnect symbol R9 pin 2 from net SWIO4 to net /3.3V_SW.
+
+Reconnect symbol R13 pin 1 from net VBAT_IN to net Net-(IC3-Pad10).
+
+Add net Net-(IC3-Pad10).
+
+Changing symbol “R13:/5B338A11/5C0F4526” value from “470k” to “BCN164AB472J7”.
+
+Change symbol R13 value from 470k to BCN164AB472J7.
+
+
+Change symbol R10 footprint from SamacSys_Parts:YC164 to Resistor_SMD:R_0603_1608Metric.
+
+Change symbol R10 value from BCN164AB472J7 to 220.
+
+
+Reconnect symbol IC2 pin 5 from net /I2C-Analog-Expander/VBAT_CTRL to net /SCL0.
+
+Change symbol R13 footprint from Resistor_SMD:R_0603_1608Metric to SamacSys_Parts:YC164.
+
+Disconnect symbol R10 pin 8.
+
+Disconnect symbol R10 pin 7.
+
+Disconnect symbol R10 pin 6.
+
+Reconnect symbol R9 pin 1 from net Net-(IC2-Pad25) to net Net-(C3-Pad1).
+
+Disconnect symbol R10 pin 5.
+
+Disconnect symbol R10 pin 4.
+
+Reconnect symbol R12 pin 2 from net Net-(R12-Pad2) to net /SCL4.
+
+Disconnect symbol R10 pin 3.
+
+Reconnect symbol R10 pin 2 from net /SCL6 to net SWIO4.
+
+Reconnect symbol R12 pin 3 from net Net-(IC4-Pad11) to net /SDA5.
+

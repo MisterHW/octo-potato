@@ -1,0 +1,466 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="D">
+  <design>
+    <source>C:\Projekte\20180618 IoP vertebra\IoP-mux8-1A\IoP-mux8-1A.sch</source>
+    <date>24/06/2018 20:25:12</date>
+    <tool>Eeschema (5.0.0-rc2-190-gf634b7565)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>IoP-mux8-1A.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="PS1">
+      <value>ISL8215MIRZ-T1</value>
+      <footprint>ISL8215MIRZT_1</footprint>
+      <datasheet>https://www.intersil.com/content/dam/Intersil/documents/isl8/isl8215m.pdf</datasheet>
+      <fields>
+        <field name="Arrow Part Number">ISL8215MIRZ-T1</field>
+        <field name="Description">Switching Voltage Regulators ANALOG 15A DC/DC STEP DOWN PWR MOD</field>
+        <field name="Manufacturer_Name">Renesas / Intersil</field>
+        <field name="Manufacturer_Part_Number">ISL8215MIRZ-T1</field>
+      </fields>
+      <libsource lib="SamacSys_Parts" part="ISL8215MIRZ-T1" description="Switching Voltage Regulators ANALOG 15A DC/DC STEP DOWN PWR MOD"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5B2FDE04</tstamp>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="SamacSys_Parts" part="ISL8215MIRZ-T1">
+      <description>Switching Voltage Regulators ANALOG 15A DC/DC STEP DOWN PWR MOD</description>
+      <docs>https://www.intersil.com/content/dam/Intersil/documents/isl8/isl8215m.pdf</docs>
+      <fields>
+        <field name="Reference">PS</field>
+        <field name="Value">ISL8215MIRZ-T1</field>
+        <field name="Footprint">ISL8215MIRZT_1</field>
+        <field name="Datasheet">https://www.intersil.com/content/dam/Intersil/documents/isl8/isl8215m.pdf</field>
+        <field name="Description">Switching Voltage Regulators ANALOG 15A DC/DC STEP DOWN PWR MOD</field>
+        <field name="Manufacturer_Name">Renesas / Intersil</field>
+        <field name="Manufacturer_Part_Number">ISL8215MIRZ-T1</field>
+        <field name="Arrow Part Number">ISL8215MIRZ-T1</field>
+      </fields>
+      <pins>
+        <pin num="1" name="COMP" type="BiDi"/>
+        <pin num="2" name="SS/TRK" type="BiDi"/>
+        <pin num="3" name="RT" type="BiDi"/>
+        <pin num="4" name="PGOOD" type="BiDi"/>
+        <pin num="5" name="MOD/SYNC" type="BiDi"/>
+        <pin num="6" name="EN_1" type="BiDi"/>
+        <pin num="7" name="EN_2" type="BiDi"/>
+        <pin num="8" name="VIN1" type="BiDi"/>
+        <pin num="9" name="FB" type="BiDi"/>
+        <pin num="10" name="NC_1" type="BiDi"/>
+        <pin num="11" name="RS" type="BiDi"/>
+        <pin num="12" name="UG1" type="BiDi"/>
+        <pin num="13" name="NC_2" type="BiDi"/>
+        <pin num="14" name="VOUT1" type="BiDi"/>
+        <pin num="15" name="OCS" type="BiDi"/>
+        <pin num="16" name="VCC" type="BiDi"/>
+        <pin num="17" name="UG2" type="BiDi"/>
+        <pin num="18" name="PAD1_SGND_1" type="BiDi"/>
+        <pin num="19" name="PAD1_SGND_2" type="BiDi"/>
+        <pin num="20" name="PAD1_SGND_3" type="BiDi"/>
+        <pin num="21" name="PAD1_SGND_4" type="BiDi"/>
+        <pin num="22" name="PAD2_VOUT_1" type="BiDi"/>
+        <pin num="23" name="PAD2_VOUT_2" type="BiDi"/>
+        <pin num="24" name="PAD2_VOUT_3" type="BiDi"/>
+        <pin num="25" name="PAD2_VOUT_4" type="BiDi"/>
+        <pin num="26" name="PAD2_VOUT_5" type="BiDi"/>
+        <pin num="27" name="PAD2_VOUT_6" type="BiDi"/>
+        <pin num="28" name="PAD2_VOUT_7" type="BiDi"/>
+        <pin num="29" name="PAD2_VOUT_8" type="BiDi"/>
+        <pin num="30" name="PAD2_VOUT_9" type="BiDi"/>
+        <pin num="31" name="PAD2_VOUT_10" type="BiDi"/>
+        <pin num="32" name="PAD2_VOUT_11" type="BiDi"/>
+        <pin num="33" name="PAD2_VOUT_12" type="BiDi"/>
+        <pin num="34" name="PAD2_VOUT_13" type="BiDi"/>
+        <pin num="35" name="PAD2_VOUT_14" type="BiDi"/>
+        <pin num="36" name="PAD2_VOUT_15" type="BiDi"/>
+        <pin num="37" name="PAD2_VOUT_16" type="BiDi"/>
+        <pin num="38" name="PAD2_VOUT_17" type="BiDi"/>
+        <pin num="39" name="PAD2_VOUT_18" type="BiDi"/>
+        <pin num="40" name="PAD3_PGND_1" type="BiDi"/>
+        <pin num="41" name="PAD3_PGND_2" type="BiDi"/>
+        <pin num="42" name="PAD3_PGND_3" type="BiDi"/>
+        <pin num="43" name="PAD3_PGND_4" type="BiDi"/>
+        <pin num="44" name="PAD3_PGND_5" type="BiDi"/>
+        <pin num="45" name="PAD4_VIN_1" type="BiDi"/>
+        <pin num="46" name="PAD4_VIN_2" type="BiDi"/>
+        <pin num="47" name="PAD4_VIN_3" type="BiDi"/>
+        <pin num="48" name="PAD4_VIN_4" type="BiDi"/>
+        <pin num="49" name="PAD4_VIN_5" type="BiDi"/>
+        <pin num="50" name="PAD4_VIN_6" type="BiDi"/>
+        <pin num="51" name="PAD4_VIN_7" type="BiDi"/>
+        <pin num="52" name="PAD4_VIN_8" type="BiDi"/>
+        <pin num="53" name="PAD4_VIN_9" type="BiDi"/>
+        <pin num="54" name="PAD4_VIN_10" type="BiDi"/>
+        <pin num="55" name="PAD4_VIN_11" type="BiDi"/>
+        <pin num="56" name="PAD4_VIN_12" type="BiDi"/>
+        <pin num="57" name="PAD5_PH_1" type="BiDi"/>
+        <pin num="58" name="PAD5_PH_2" type="BiDi"/>
+        <pin num="59" name="PAD5_PH_3" type="BiDi"/>
+        <pin num="60" name="PAD5_PH_4" type="BiDi"/>
+        <pin num="61" name="PAD5_PH_5" type="BiDi"/>
+        <pin num="62" name="PAD5_PH_6" type="BiDi"/>
+        <pin num="63" name="PAD5_PH_7" type="BiDi"/>
+        <pin num="64" name="PAD5_PH_8" type="BiDi"/>
+        <pin num="65" name="PAD5_PH_9" type="BiDi"/>
+        <pin num="66" name="PAD5_PH_10" type="BiDi"/>
+        <pin num="67" name="PAD5_PH_11" type="BiDi"/>
+        <pin num="68" name="PAD5_PH_12" type="BiDi"/>
+        <pin num="69" name="PAD5_PH_13" type="BiDi"/>
+        <pin num="70" name="PAD5_PH_14" type="BiDi"/>
+        <pin num="71" name="PAD5_PH_15" type="BiDi"/>
+        <pin num="72" name="PAD5_PH_16" type="BiDi"/>
+        <pin num="73" name="PAD5_PH_17" type="BiDi"/>
+        <pin num="74" name="PAD5_PH_18" type="BiDi"/>
+        <pin num="75" name="PAD5_PH_19" type="BiDi"/>
+        <pin num="76" name="PAD5_PH_20" type="BiDi"/>
+        <pin num="77" name="PAD5_PH_21" type="BiDi"/>
+        <pin num="78" name="PAD5_PH_22" type="BiDi"/>
+        <pin num="79" name="PAD5_PH_23" type="BiDi"/>
+        <pin num="80" name="PAD5_PH_24" type="BiDi"/>
+        <pin num="81" name="PAD5_PH_25" type="BiDi"/>
+        <pin num="82" name="PAD5_PH_26" type="BiDi"/>
+        <pin num="83" name="PAD5_PH_27" type="BiDi"/>
+        <pin num="84" name="PAD5_PH_28" type="BiDi"/>
+        <pin num="85" name="PAD5_PH_29" type="BiDi"/>
+        <pin num="86" name="PAD5_PH_30" type="BiDi"/>
+        <pin num="87" name="PAD5_PH_31" type="BiDi"/>
+        <pin num="88" name="PAD5_PH_32" type="BiDi"/>
+        <pin num="89" name="PAD5_PH_33" type="BiDi"/>
+        <pin num="90" name="PAD5_PH_34" type="BiDi"/>
+        <pin num="91" name="PAD5_PH_35" type="BiDi"/>
+        <pin num="92" name="PAD5_PH_36" type="BiDi"/>
+        <pin num="93" name="PAD5_PH_37" type="BiDi"/>
+        <pin num="94" name="PAD5_PH_38" type="BiDi"/>
+        <pin num="95" name="PAD5_PH_39" type="BiDi"/>
+        <pin num="96" name="PAD5_PH_40" type="BiDi"/>
+        <pin num="97" name="PAD5_PH_41" type="BiDi"/>
+        <pin num="98" name="PAD5_PH_42" type="BiDi"/>
+        <pin num="99" name="PAD5_PH_43" type="BiDi"/>
+        <pin num="100" name="PAD5_PH_44" type="BiDi"/>
+        <pin num="101" name="PAD5_PH_45" type="BiDi"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="SamacSys_Parts">
+      <uri>C:\Users\Admin/documents/KiCAD-Libs/SamacSys_Parts.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="Net-(PS1-Pad64)">
+      <node ref="PS1" pin="64"/>
+    </net>
+    <net code="2" name="Net-(PS1-Pad76)">
+      <node ref="PS1" pin="76"/>
+    </net>
+    <net code="3" name="Net-(PS1-Pad75)">
+      <node ref="PS1" pin="75"/>
+    </net>
+    <net code="4" name="Net-(PS1-Pad74)">
+      <node ref="PS1" pin="74"/>
+    </net>
+    <net code="5" name="Net-(PS1-Pad73)">
+      <node ref="PS1" pin="73"/>
+    </net>
+    <net code="6" name="Net-(PS1-Pad72)">
+      <node ref="PS1" pin="72"/>
+    </net>
+    <net code="7" name="Net-(PS1-Pad71)">
+      <node ref="PS1" pin="71"/>
+    </net>
+    <net code="8" name="Net-(PS1-Pad70)">
+      <node ref="PS1" pin="70"/>
+    </net>
+    <net code="9" name="Net-(PS1-Pad69)">
+      <node ref="PS1" pin="69"/>
+    </net>
+    <net code="10" name="Net-(PS1-Pad68)">
+      <node ref="PS1" pin="68"/>
+    </net>
+    <net code="11" name="Net-(PS1-Pad67)">
+      <node ref="PS1" pin="67"/>
+    </net>
+    <net code="12" name="Net-(PS1-Pad66)">
+      <node ref="PS1" pin="66"/>
+    </net>
+    <net code="13" name="Net-(PS1-Pad65)">
+      <node ref="PS1" pin="65"/>
+    </net>
+    <net code="14" name="Net-(PS1-Pad77)">
+      <node ref="PS1" pin="77"/>
+    </net>
+    <net code="15" name="Net-(PS1-Pad63)">
+      <node ref="PS1" pin="63"/>
+    </net>
+    <net code="16" name="Net-(PS1-Pad62)">
+      <node ref="PS1" pin="62"/>
+    </net>
+    <net code="17" name="Net-(PS1-Pad61)">
+      <node ref="PS1" pin="61"/>
+    </net>
+    <net code="18" name="Net-(PS1-Pad60)">
+      <node ref="PS1" pin="60"/>
+    </net>
+    <net code="19" name="Net-(PS1-Pad59)">
+      <node ref="PS1" pin="59"/>
+    </net>
+    <net code="20" name="Net-(PS1-Pad58)">
+      <node ref="PS1" pin="58"/>
+    </net>
+    <net code="21" name="Net-(PS1-Pad57)">
+      <node ref="PS1" pin="57"/>
+    </net>
+    <net code="22" name="Net-(PS1-Pad56)">
+      <node ref="PS1" pin="56"/>
+    </net>
+    <net code="23" name="Net-(PS1-Pad55)">
+      <node ref="PS1" pin="55"/>
+    </net>
+    <net code="24" name="Net-(PS1-Pad54)">
+      <node ref="PS1" pin="54"/>
+    </net>
+    <net code="25" name="Net-(PS1-Pad53)">
+      <node ref="PS1" pin="53"/>
+    </net>
+    <net code="26" name="Net-(PS1-Pad52)">
+      <node ref="PS1" pin="52"/>
+    </net>
+    <net code="27" name="Net-(PS1-Pad89)">
+      <node ref="PS1" pin="89"/>
+    </net>
+    <net code="28" name="Net-(PS1-Pad101)">
+      <node ref="PS1" pin="101"/>
+    </net>
+    <net code="29" name="Net-(PS1-Pad100)">
+      <node ref="PS1" pin="100"/>
+    </net>
+    <net code="30" name="Net-(PS1-Pad99)">
+      <node ref="PS1" pin="99"/>
+    </net>
+    <net code="31" name="Net-(PS1-Pad98)">
+      <node ref="PS1" pin="98"/>
+    </net>
+    <net code="32" name="Net-(PS1-Pad97)">
+      <node ref="PS1" pin="97"/>
+    </net>
+    <net code="33" name="Net-(PS1-Pad96)">
+      <node ref="PS1" pin="96"/>
+    </net>
+    <net code="34" name="Net-(PS1-Pad95)">
+      <node ref="PS1" pin="95"/>
+    </net>
+    <net code="35" name="Net-(PS1-Pad94)">
+      <node ref="PS1" pin="94"/>
+    </net>
+    <net code="36" name="Net-(PS1-Pad93)">
+      <node ref="PS1" pin="93"/>
+    </net>
+    <net code="37" name="Net-(PS1-Pad92)">
+      <node ref="PS1" pin="92"/>
+    </net>
+    <net code="38" name="Net-(PS1-Pad91)">
+      <node ref="PS1" pin="91"/>
+    </net>
+    <net code="39" name="Net-(PS1-Pad90)">
+      <node ref="PS1" pin="90"/>
+    </net>
+    <net code="40" name="Net-(PS1-Pad51)">
+      <node ref="PS1" pin="51"/>
+    </net>
+    <net code="41" name="Net-(PS1-Pad88)">
+      <node ref="PS1" pin="88"/>
+    </net>
+    <net code="42" name="Net-(PS1-Pad87)">
+      <node ref="PS1" pin="87"/>
+    </net>
+    <net code="43" name="Net-(PS1-Pad86)">
+      <node ref="PS1" pin="86"/>
+    </net>
+    <net code="44" name="Net-(PS1-Pad85)">
+      <node ref="PS1" pin="85"/>
+    </net>
+    <net code="45" name="Net-(PS1-Pad84)">
+      <node ref="PS1" pin="84"/>
+    </net>
+    <net code="46" name="Net-(PS1-Pad83)">
+      <node ref="PS1" pin="83"/>
+    </net>
+    <net code="47" name="Net-(PS1-Pad82)">
+      <node ref="PS1" pin="82"/>
+    </net>
+    <net code="48" name="Net-(PS1-Pad81)">
+      <node ref="PS1" pin="81"/>
+    </net>
+    <net code="49" name="Net-(PS1-Pad80)">
+      <node ref="PS1" pin="80"/>
+    </net>
+    <net code="50" name="Net-(PS1-Pad79)">
+      <node ref="PS1" pin="79"/>
+    </net>
+    <net code="51" name="Net-(PS1-Pad78)">
+      <node ref="PS1" pin="78"/>
+    </net>
+    <net code="52" name="Net-(PS1-Pad13)">
+      <node ref="PS1" pin="13"/>
+    </net>
+    <net code="53" name="Net-(PS1-Pad25)">
+      <node ref="PS1" pin="25"/>
+    </net>
+    <net code="54" name="Net-(PS1-Pad24)">
+      <node ref="PS1" pin="24"/>
+    </net>
+    <net code="55" name="Net-(PS1-Pad23)">
+      <node ref="PS1" pin="23"/>
+    </net>
+    <net code="56" name="Net-(PS1-Pad22)">
+      <node ref="PS1" pin="22"/>
+    </net>
+    <net code="57" name="Net-(PS1-Pad21)">
+      <node ref="PS1" pin="21"/>
+    </net>
+    <net code="58" name="Net-(PS1-Pad20)">
+      <node ref="PS1" pin="20"/>
+    </net>
+    <net code="59" name="Net-(PS1-Pad19)">
+      <node ref="PS1" pin="19"/>
+    </net>
+    <net code="60" name="Net-(PS1-Pad18)">
+      <node ref="PS1" pin="18"/>
+    </net>
+    <net code="61" name="Net-(PS1-Pad17)">
+      <node ref="PS1" pin="17"/>
+    </net>
+    <net code="62" name="Net-(PS1-Pad16)">
+      <node ref="PS1" pin="16"/>
+    </net>
+    <net code="63" name="Net-(PS1-Pad15)">
+      <node ref="PS1" pin="15"/>
+    </net>
+    <net code="64" name="Net-(PS1-Pad14)">
+      <node ref="PS1" pin="14"/>
+    </net>
+    <net code="65" name="Net-(PS1-Pad26)">
+      <node ref="PS1" pin="26"/>
+    </net>
+    <net code="66" name="Net-(PS1-Pad12)">
+      <node ref="PS1" pin="12"/>
+    </net>
+    <net code="67" name="Net-(PS1-Pad11)">
+      <node ref="PS1" pin="11"/>
+    </net>
+    <net code="68" name="Net-(PS1-Pad10)">
+      <node ref="PS1" pin="10"/>
+    </net>
+    <net code="69" name="Net-(PS1-Pad9)">
+      <node ref="PS1" pin="9"/>
+    </net>
+    <net code="70" name="Net-(PS1-Pad8)">
+      <node ref="PS1" pin="8"/>
+    </net>
+    <net code="71" name="Net-(PS1-Pad7)">
+      <node ref="PS1" pin="7"/>
+    </net>
+    <net code="72" name="Net-(PS1-Pad6)">
+      <node ref="PS1" pin="6"/>
+    </net>
+    <net code="73" name="Net-(PS1-Pad5)">
+      <node ref="PS1" pin="5"/>
+    </net>
+    <net code="74" name="Net-(PS1-Pad4)">
+      <node ref="PS1" pin="4"/>
+    </net>
+    <net code="75" name="Net-(PS1-Pad3)">
+      <node ref="PS1" pin="3"/>
+    </net>
+    <net code="76" name="Net-(PS1-Pad2)">
+      <node ref="PS1" pin="2"/>
+    </net>
+    <net code="77" name="Net-(PS1-Pad38)">
+      <node ref="PS1" pin="38"/>
+    </net>
+    <net code="78" name="Net-(PS1-Pad50)">
+      <node ref="PS1" pin="50"/>
+    </net>
+    <net code="79" name="Net-(PS1-Pad49)">
+      <node ref="PS1" pin="49"/>
+    </net>
+    <net code="80" name="Net-(PS1-Pad48)">
+      <node ref="PS1" pin="48"/>
+    </net>
+    <net code="81" name="Net-(PS1-Pad47)">
+      <node ref="PS1" pin="47"/>
+    </net>
+    <net code="82" name="Net-(PS1-Pad46)">
+      <node ref="PS1" pin="46"/>
+    </net>
+    <net code="83" name="Net-(PS1-Pad45)">
+      <node ref="PS1" pin="45"/>
+    </net>
+    <net code="84" name="Net-(PS1-Pad44)">
+      <node ref="PS1" pin="44"/>
+    </net>
+    <net code="85" name="Net-(PS1-Pad43)">
+      <node ref="PS1" pin="43"/>
+    </net>
+    <net code="86" name="Net-(PS1-Pad42)">
+      <node ref="PS1" pin="42"/>
+    </net>
+    <net code="87" name="Net-(PS1-Pad41)">
+      <node ref="PS1" pin="41"/>
+    </net>
+    <net code="88" name="Net-(PS1-Pad40)">
+      <node ref="PS1" pin="40"/>
+    </net>
+    <net code="89" name="Net-(PS1-Pad39)">
+      <node ref="PS1" pin="39"/>
+    </net>
+    <net code="90" name="Net-(PS1-Pad1)">
+      <node ref="PS1" pin="1"/>
+    </net>
+    <net code="91" name="Net-(PS1-Pad37)">
+      <node ref="PS1" pin="37"/>
+    </net>
+    <net code="92" name="Net-(PS1-Pad36)">
+      <node ref="PS1" pin="36"/>
+    </net>
+    <net code="93" name="Net-(PS1-Pad35)">
+      <node ref="PS1" pin="35"/>
+    </net>
+    <net code="94" name="Net-(PS1-Pad34)">
+      <node ref="PS1" pin="34"/>
+    </net>
+    <net code="95" name="Net-(PS1-Pad33)">
+      <node ref="PS1" pin="33"/>
+    </net>
+    <net code="96" name="Net-(PS1-Pad32)">
+      <node ref="PS1" pin="32"/>
+    </net>
+    <net code="97" name="Net-(PS1-Pad31)">
+      <node ref="PS1" pin="31"/>
+    </net>
+    <net code="98" name="Net-(PS1-Pad30)">
+      <node ref="PS1" pin="30"/>
+    </net>
+    <net code="99" name="Net-(PS1-Pad29)">
+      <node ref="PS1" pin="29"/>
+    </net>
+    <net code="100" name="Net-(PS1-Pad28)">
+      <node ref="PS1" pin="28"/>
+    </net>
+    <net code="101" name="Net-(PS1-Pad27)">
+      <node ref="PS1" pin="27"/>
+    </net>
+  </nets>
+</export>
